@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "Hexate",
+        "DB_PASSWORD": "Hexate123",
+        "DB_NAME": "placebook",
+        "GOOGLE_API_KEY": "AIzaSyA5N9Iujc8H7G7DaHlTA2qz9oeiKmvMfXk",
+        "JWT_KEY": "supersecret"
+    }
+}
